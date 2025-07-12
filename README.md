@@ -1,3 +1,7 @@
+## 🔗 Live Project Link
+
+[Click here to open the Scientific Calculator](https://anishasingh15.github.io/scientific-calculator/)
+
 # Scientific Calculator 🧮
 
 A beautiful and responsive **scientific calculator** built using **HTML**, **CSS**, and **JavaScript**.  
